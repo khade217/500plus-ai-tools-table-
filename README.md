@@ -15,11 +15,11 @@ Built using HTML, CSS, Bootstrap, JavaScript, and jQuery.
 - Easy navigation and sorting
 - Clean and modern UI
 
----
+
 
 ## 📂 Project Structure
 
-/
+
 ├── index.html
 ├── css/
 │   └── styles.css
@@ -28,7 +28,7 @@ Built using HTML, CSS, Bootstrap, JavaScript, and jQuery.
 ├── data/
 │   └── ai-tools.json
 ├── README.md
-```
+
 
 
 
@@ -53,7 +53,7 @@ Built using HTML, CSS, Bootstrap, JavaScript, and jQuery.
 2. **Open `index.html` in your browser.**  
    No build steps required—all dependencies are included via CDN or local files.
 
----
+
 
 ## ✨ Usage
 
@@ -61,7 +61,7 @@ Built using HTML, CSS, Bootstrap, JavaScript, and jQuery.
 - Filter or sort columns as needed.
 - Click on tool names for more information (if links provided).
 
----
+
 
 ## 📑 Documentation
 
@@ -70,28 +70,24 @@ Built using HTML, CSS, Bootstrap, JavaScript, and jQuery.
 - [MDN Web Docs: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [MDN Web Docs: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
----
+
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
 Feel free to check [issues](https://github.com/khade217/500plus-ai-tools-table-/issues) and submit Pull Requests.
 
----
+
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
 ## 🙌 Acknowledgements
 
 - Inspired by the growing ecosystem of AI tools and open-source contributors.
-```
 
----
 
-**Tip:**  
-Replace paths and filenames as needed to match your actual project structure. Add screenshots or badges for a more engaging README.  
-Let me know if you want this tailored with more details or specific sections!
+
+
