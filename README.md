@@ -20,11 +20,13 @@ Built using HTML, CSS, Bootstrap, JavaScript, and jQuery.
 ## 📂 Project Structure
 
 
-├── index.html
-├── css/
-│   └── styles.css
+ + index.html 
+
+. +css/styles.CSS
+
 ├── js/
 │   └── scripts.js
+
 ├── data/
 │   └── ai-tools.json
 ├── README.md
