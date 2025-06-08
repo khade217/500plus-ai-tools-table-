@@ -2,15 +2,11 @@
 Filtered and searchble table of 500 Plus ai tools
 
 
----
-
-```markdown
 # 500+ AI Tools Table
 
 A searchable, filterable, and user-friendly table listing over 500 AI tools.  
 Built using HTML, CSS, Bootstrap, JavaScript, and jQuery.
 
----
 
 ## 🚀 Features
 
@@ -23,7 +19,6 @@ Built using HTML, CSS, Bootstrap, JavaScript, and jQuery.
 
 ## 📂 Project Structure
 
-```
 /
 ├── index.html
 ├── css/
@@ -35,7 +30,7 @@ Built using HTML, CSS, Bootstrap, JavaScript, and jQuery.
 ├── README.md
 ```
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -45,11 +40,11 @@ Built using HTML, CSS, Bootstrap, JavaScript, and jQuery.
 - **JavaScript (ES6+)**
 - **jQuery**
 
----
 
 ## 📦 Getting Started
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/khade217/500plus-ai-tools-table-.git
    cd 500plus-ai-tools-table-
